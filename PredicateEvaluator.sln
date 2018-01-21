@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredicateEvaluator", "PredicateEvaluator\PredicateEvaluator.csproj", "{D5B6709C-3884-4316-ACAA-11D2E4E8FB23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredicateEvaluatorTests", "PredicateEvaluatorTests\PredicateEvaluatorTests.csproj", "{F00D90B3-E162-4950-A453-0D9D46FE7874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B6709C-3884-4316-ACAA-11D2E4E8FB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B6709C-3884-4316-ACAA-11D2E4E8FB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B6709C-3884-4316-ACAA-11D2E4E8FB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B6709C-3884-4316-ACAA-11D2E4E8FB23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F00D90B3-E162-4950-A453-0D9D46FE7874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00D90B3-E162-4950-A453-0D9D46FE7874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00D90B3-E162-4950-A453-0D9D46FE7874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00D90B3-E162-4950-A453-0D9D46FE7874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DA65C0E-6726-41B4-B7AA-F1BAB37FD997}
+	EndGlobalSection
+EndGlobal
